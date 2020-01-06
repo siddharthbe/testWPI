@@ -1,0 +1,17 @@
+[
+    {
+        "java_files": [
+            "/mnt/c/Users/siddh/Desktop/PLSE/testWPI/src/main/java/BasicUrlTest.java"
+        ], 
+        "javac_switches": {
+            "XDuseUnsharedTable=true": true, 
+            "classpath": "", 
+            "d": "/mnt/c/Users/siddh/Desktop/PLSE/testWPI/build/classes/java/main", 
+            "g": true, 
+            "proc:none": true, 
+            "source": "1.8", 
+            "sourcepath": "", 
+            "target": "1.8"
+        }
+    }
+]

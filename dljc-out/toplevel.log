@@ -1,0 +1,14 @@
+[INFO] Running command /mnt/c/Users/siddh/Desktop/PLSE/do-like-javac/dljc --lib C:UserssiddhDesktopPLSEhttps-checker -t wpi,print -- gradle clean build
+[INFO] Platform: Linux-4.4.0-18362-Microsoft-x86_64-with-Ubuntu-16.04-xenial
+[INFO] PATH=/home/bedeks/bin:/home/bedeks/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/Program Files (x86)/PharosSystems/Core:/mnt/c/Program Files/Git/cmd:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Users/siddh/Downloads/php-7.2.8-nts-Win32-VC15-x64:/mnt/c/Program Files (x86)/SMLNJ/bin/:/mnt/c/Program Files/Java/jdk1.8.0_211/bin:/mnt/c/Gradle/gradle-5.5/bin:/mnt/c/wso2/apache-maven-3.6.1/bin:/mnt/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Users/siddh/Desktop/annotation-tools/annotation-file-utilities/scripts:/mnt/c/Users/siddh/Desktop/PLSE/do-like-javac:/mnt/c/Ruby22-x64/bin:/mnt/c/Users/siddh/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/Java/jdk1.8.0_211/bin:/mnt/c/Users/siddh/AppData/Local/Microsoft/WindowsApps:/snap/binC\:/Users/siddh/desktop/PLSE/do-like-javac /usr/bin /bin
+[INFO] SHELL=/bin/bash
+[INFO] PWD=/home/bedeks/siddh/Desktop/PLSE/testWPI
+[INFO] Results: [{'java_files': ['/mnt/c/Users/siddh/Desktop/PLSE/testWPI/src/main/java/BasicUrlTest.java'],
+  'javac_switches': {'XDuseUnsharedTable=true': True,
+                     'classpath': '',
+                     'd': '/mnt/c/Users/siddh/Desktop/PLSE/testWPI/build/classes/java/main',
+                     'g': True,
+                     'proc:none': True,
+                     'source': '1.8',
+                     'sourcepath': '',
+                     'target': '1.8'}}]
